@@ -2,3 +2,4 @@ vendor/
 .vscode/*
 !.vscode/tasks.json
 *.exe
+*.sqlite3
